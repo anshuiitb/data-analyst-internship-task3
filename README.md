@@ -1,7 +1,4 @@
-# data-analyst-internship-task3
-
-
-# Sales Dashboard - Elevate Labs Data Analyst Internship Task
+# Sales Dashboard - Elevate Labs Data Analyst Internship Task 3
 
 ## Project Overview
 This repository contains an interactive sales dashboard built in Power BI for analyzing the [Kaggle Sales Dataset](https://www.kaggle.com/datasets/abrarahmed26/sales-dataset) (using all_data.csv). The dashboard focuses on key performance indicators (KPIs) such as Total Sales, Assumed Profit, Total Quantity Ordered, and Total Orders. It includes  product and city breakdowns, and interactive filters to support business decisions like identifying top-performing products or seasonal sales patterns.
